@@ -1,0 +1,7 @@
+C:\Users\joice\source\repos\matriz\matriz\obj\Debug\matriz.csproj.AssemblyReference.cache
+C:\Users\joice\source\repos\matriz\matriz\obj\Debug\matriz.csproj.CoreCompileInputs.cache
+C:\Users\joice\source\repos\matriz\matriz\bin\Debug\matriz.exe.config
+C:\Users\joice\source\repos\matriz\matriz\bin\Debug\matriz.exe
+C:\Users\joice\source\repos\matriz\matriz\bin\Debug\matriz.pdb
+C:\Users\joice\source\repos\matriz\matriz\obj\Debug\matriz.exe
+C:\Users\joice\source\repos\matriz\matriz\obj\Debug\matriz.pdb
